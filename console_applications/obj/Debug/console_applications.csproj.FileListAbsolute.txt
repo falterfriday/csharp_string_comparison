@@ -1,0 +1,6 @@
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\console_applications\console_applications\bin\Debug\console_applications.exe.config
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\console_applications\console_applications\bin\Debug\console_applications.exe
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\console_applications\console_applications\bin\Debug\console_applications.pdb
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\console_applications\console_applications\obj\Debug\console_applications.csprojResolveAssemblyReference.cache
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\console_applications\console_applications\obj\Debug\console_applications.exe
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\console_applications\console_applications\obj\Debug\console_applications.pdb
