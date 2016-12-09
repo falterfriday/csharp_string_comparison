@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace console_applications
+namespace ConsoleApp
 {
     class Program
     {
@@ -22,7 +22,7 @@ namespace console_applications
                 Console.WriteLine("Nope... Not so equal");
                 Console.ReadKey();
             }
-
+                //using StringComparison to ignore case
             if (string1.Equals(string2, StringComparison.OrdinalIgnoreCase))
             {
                 Console.WriteLine("Yeah... they're equal");
